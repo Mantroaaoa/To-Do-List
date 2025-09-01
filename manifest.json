@@ -1,6 +1,6 @@
 {
   "name": "To-Do List",
-  "short_name": "ToDoLiat",
+  "short_name": "ToDoList",
   "description": "Aplikasi To-Do List sederhana untuk mencatat aktivitas harian.",
   "start_url": ".",
   "display": "standalone",

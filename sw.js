@@ -1,7 +1,7 @@
 const CACHE_NAME = 'todo-list-v1';
 // Daftar file yang akan disimpan di cache. Sesuaikan dengan nama file Anda.
 const urlsToCache = [
-  '/',
+  '.',
   'index.html',
   'css/style.css',
   'script.js',
